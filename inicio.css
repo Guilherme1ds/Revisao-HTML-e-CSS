@@ -63,15 +63,6 @@ body {
   text-align: center;
 }
 
-/* Destaque de notícia principal */
-.destaque {
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 6px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  margin-bottom: 30px;
-}
-
 /* Outras notícias comuns */
 .noticia {
   background-color: #fff;
@@ -149,7 +140,7 @@ body {
   }
 }
 
-/* Notícia de destaque na homepage */
+/* Estilo especial para a notícia de destaque na homepage */
 .destaque {
   background-color: #fff;
   border: 2px solid #b71c1c;
